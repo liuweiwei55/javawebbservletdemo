@@ -9,5 +9,6 @@ public class demo1 {
         System.out.println("master-test");
         System.out.println("hot-fix-test");
         System.out.println("hot-fix-3");
+        System.out.println("push test");
     }
 }
